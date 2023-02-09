@@ -12,7 +12,7 @@ Kości te są obiektem zainteresowań amatorskich badaczy teorii liczb.
 
 Podzielność liczb, liczby pierwsze były rozważane około 2,000 p.n.e. U Egipcjan mogły pojawić się w geometrycznym kontekście. Liczba pierwsza to liczba, która nie ma nietrywialnej prostokątnej reprezentacji. Euklides – dowód, że liczb pierwszych jest nieskończenie wiele.
 
-**Metody liczenia** u primitywnych ludów:
+#### **Metody liczenia** u primitywnych ludów:
 Hipoteza: liczba była gestem lub pewną częścią ciała (człowiek używał pewnych ruchów lub części ciała by odliczać obiekty)
 Mniej prawdopodobna hipotera: nazwy liczb związane są z działalnością religiją – tak zaawansowany system religijny, by potrzebował liczb wydaje się być jednak mniej prawdopodobny niż konieczność stosowania liczb „na porządku dziennym”;
 
@@ -26,16 +26,16 @@ Pierwsza bardziej zaawansowana metoda liczenia to kultura z Bliskiego Wschodu (9
 
 Liczenie do 12 na paliczkach palców – system dwunastkowy (doceniany ze względu na fajne dzielniki). Druga ręka pozwalała doliczyć do 60. Funkcjonował do lat ‘60 u kupców (poza Europą).
 
-**Liczba i jej symbole**, występujące symbole
+#### **Liczba i jej symbole**, występujące symbole
 Słowny (gdzie słowo ma związek z liczbą – np. pochodzi od pokazywania jej na ciele, ma nazwę części ciała; lub nie ma związku – u ludów bardziej cywilizowanych lub w dzisiejszym języku nazwy liczb „nic nam nie mówią”);
 Figuralny (faktycznie istniejące obiekty lub gesty, pokazywanie na częsciach ciała, supełki, nacięcia, liczmany)
 Pisemny (cyfry – pozbawione związku z liczebnością, umówiony znak; litery – kolejne litery alfabetu; zapis skojarzony z symboliką)
 
-**Systemy liczbowe**, najczęściej występujące i hipotezy dotyczące pochodzenia:
-piątkowy (dłoń);
-dwudziestkowy (palce/częsci ciała);
-dziesiętny (palce obu dłoni);
-dwunastkowy (paliczki jednej dłoni);
+#### **Systemy liczbowe**, najczęściej występujące i hipotezy dotyczące pochodzenia:
+- piątkowy (dłoń);
+- dwudziestkowy (palce/częsci ciała);
+- dziesiętny (palce obu dłoni);
+- dwunastkowy (paliczki jednej dłoni);
 
 Najwięcej hipotez pojawia się odnośnie sześćdziesiątkowego (najwięcej dzielników; od wspólnej miary 10 i ułamków 1/2, 1/3, 2/3, 1/6; od podziału koła; połączenie kultury systemu 10 i 12; z metody liczenia na palcach obu rąk).
 
@@ -47,7 +47,10 @@ Pomoce rachunkowe (stoliki obliczeniowe, liczydła) umożliwiały dokonywania op
 
 Osoby z nich korzystające nazywało się **abacystami** (konflikt pomiędzy abecystami i arytmetykami – abecyści byli szybsi, arytmetykom trudniej było oszukiwać). 
 
-Przyrządy rozliczeniowe: karby, rewasze, talle (dowód zakupu, zapisy księgowe); takie o fajne patyczki. W Polsce używało się Rewaszy (stosowanych w Bieszczadach, u Husułów) – kropki i łączenia jako przyjemny system dziesiątkowy.
+#### Przyrządy rozliczeniowe:
+- karby, rewasze, talle (dowód zakupu, zapisy księgowe); 
+- takie o fajne patyczki. 
+- W Polsce używało się Rewaszy (stosowanych w Bieszczadach, u Husułów) – kropki i łączenia jako przyjemny system dziesiątkowy.
 
 Inne przyrządy, abakusy i liczydła;
 Japoński soroban (opierający się na tym, że oko ludzkie dobrze liczy do 4-5); rosyjskie szczoty (uparcie trzyma się systemu dziesiętnego). 
