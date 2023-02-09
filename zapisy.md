@@ -28,10 +28,10 @@
   - Imię Nazwisko
 
 - Wykład 12: 21-12-2022 - Rozwój analizy, I. Przygotowanie: Oresme, Galileusz, Kartezjusz, Kepler
-  - Imię Nazwisko
+  - Wiktor Wichrowski @Ethran 
 
 - Wykład 13: 11-01-2023 - Rozwój analizy, II. Fermat, Bernoulli, Huygens, …
-  - Wiktor Wichrowski @Ethran
+  - Przed wzięciem tego tematu sprawdz czy nie został on spisany, na moodlu jest inny tytuł niż występuje w tym pliku
  
 - Wykład 14: 18-01-2023 - Rozwój analizy, III. Newton i Leibniz
   - Szymon Dziuda @sdziuda
