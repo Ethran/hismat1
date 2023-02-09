@@ -1,6 +1,6 @@
 #  Wykład 12: rozwój Analizy Matematycznej, początki
 
-Tagi: Oresme, Kepler wiek XIII-XVI, continuum
+Tagi: Oresme, Kepler wiek XIII-XVI, continuum, calkulator
 ====================================
 
 
@@ -36,5 +36,34 @@ Czy jak będziemy dzielić odcinek to czy kiedyś dostniemy "atom"? czy można g
 ###### Opis ruchu
 - opis ruchu (Forma fluence): do opisu ruchu wystarczy jego trajektoria? dzisiejsza kinetyka
   - nie potrafimy powiedzieć co się stanie po np zderzeniu z inną kostką 
+  - prędkość chwilowa była zakazana - ciężko opisać inny ruch niż jednostajny 
 - przyczyna ruchu:
   - tarcie, moment pędu  
+
+#### Uniwersytet Paryki (Paryż)
+- Tomasz z Akwinu (on to właściwie ukształotował
+- zdominowany przez domikanów
+- bardzo przywiązani do arystotelesa
+- Jean Buridan (dużo pił i chodził na dziwki) świecki matematyk
+- Nicole (z) Oresme
+
+#### Uniwersytet Oxfordzki 
+- trochę luźniejszy, platona też czytali
+- Frańciszkanie
+- Thomas Brawardine (łączył arystotelasa z teologią …)
+- Richard Swine Shead
+- kalkualtor - osoba lubiąca w rachunki nie pejroratywne, kiedyś podobnie nazywano niewolników którzy umieli liczyć
+
+### Richard SwineShead
+- liber calculationum
+- De motibus naturalitus
+- twierdzenie z Merton College
+### Nicole Oresme
+- uczeń Jean Buridan
+- z niższych sfer społecznych korzystał z stypednium dla uboższych
+- potęgi o ułamkowych wykładnikach
+- zmienność intesywność cech 
+- pojęcie krzywizny 
+- rozbieżność szeregu harmonicznego
+- tłumaczenie klasyków na francuski → nowaterminologia
+- dwa ciała poruszają się po okręgu z współmiernymi i niewspółmiernymi prędkościami 
