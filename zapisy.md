@@ -34,7 +34,7 @@
   - Imię Nazwisko
  
 - Wykład 14: 18-01-2023 - Rozwój analizy, III. Newton i Leibniz
-  - Imię Nazwisko
+  - Wiktor Wichrowski @Ethran
 
 - Wykład 15: 25-01-2023 - Matematyka losowości, II.
   - Cyprian Kalbarczyk @trig0n03
