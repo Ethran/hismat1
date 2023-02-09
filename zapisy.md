@@ -31,10 +31,10 @@
   - Imię Nazwisko
 
 - Wykład 13: 11-01-2023 - Rozwój analizy, II. Fermat, Bernoulli, Huygens, …
-  - Imię Nazwisko
+  - Wiktor Wichrowski @Ethran
  
 - Wykład 14: 18-01-2023 - Rozwój analizy, III. Newton i Leibniz
-  - Wiktor Wichrowski @Ethran
+  - Imię Nazwisko
 
 - Wykład 15: 25-01-2023 - Matematyka losowości, II.
   - Cyprian Kalbarczyk @trig0n03
