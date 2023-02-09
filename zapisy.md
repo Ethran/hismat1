@@ -31,7 +31,7 @@
   - Wiktor Wichrowski @Ethran 
 
 - Wykład 13: 11-01-2023 - Rozwój analizy, II. Fermat, Bernoulli, Huygens, …
-  - Przed wzięciem tego tematu sprawdz czy nie został on spisany, na moodlu jest inny tytuł niż występuje w tym pliku
+  - Szymon Dziuda @sdziuda
  
 - Wykład 14: 18-01-2023 - Rozwój analizy, III. Newton i Leibniz
   - Szymon Dziuda @sdziuda
