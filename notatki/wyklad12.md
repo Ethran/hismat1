@@ -1,6 +1,6 @@
 #  Wykład 12: rozwój Analizy Matematycznej, początki
 
-Tagi: Oresme, Kepler wiek XIII-XVI, continuum, calkulator
+Tagi: Oresme, Kepler wiek XIII-XVI, continuum, calkulator, logarytm (i suwak) 
 ====================================
 
 
@@ -33,6 +33,7 @@ W średniowieczu europa miała do dyspozycji tłumaczenia dzieł Arystotelesa, j
 
 ###### Problem continuum 
 Czy jak będziemy dzielić odcinek to czy kiedyś dostniemy "atom"? czy można go dzielić bez końca?
+
 ###### Opis ruchu
 - opis ruchu (Forma fluence): do opisu ruchu wystarczy jego trajektoria? dzisiejsza kinetyka
   - nie potrafimy powiedzieć co się stanie po np zderzeniu z inną kostką 
@@ -58,6 +59,7 @@ Czy jak będziemy dzielić odcinek to czy kiedyś dostniemy "atom"? czy można g
 - liber calculationum
 - De motibus naturalitus
 - twierdzenie z Merton College
+
 ### Nicole Oresme
 - uczeń Jean Buridan
 - z niższych sfer społecznych korzystał z stypednium dla uboższych
@@ -67,3 +69,25 @@ Czy jak będziemy dzielić odcinek to czy kiedyś dostniemy "atom"? czy można g
 - rozbieżność szeregu harmonicznego
 - tłumaczenie klasyków na francuski → nowaterminologia
 - dwa ciała poruszają się po okręgu z współmiernymi i niewspółmiernymi prędkościami 
+
+### Nagłe spowolnienie w Francj
+- czarna śmierć
+- wojna stuletnia
+- wojna dwóch róż
+
+### Rozwój notacji 
+- XV oraz XVI wiek
+- wynalazek druku, wydawanie podręczników dla kupców
+- oznaczanie zmiennych literkami XIII wiek 
+- francise Viet
+- 44 przypadki równania stopnia 3 bo nie mieli notacji
+
+### logarytmy
+- na potrzeby nawigacji, dokładnych rachunków
+- astronomia → horoskopy
+- użycie funkcji trygonometrycznych aby je policzyć
+
+### Johannes Kepler
+- obserwacja marsa supernowej
+- tablice rudolfinskie
+### galieusz
