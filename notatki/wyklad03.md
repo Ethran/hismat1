@@ -24,7 +24,9 @@ Grecy robili slamy poetyckie, slay. (sympozsion)
 
 Ponieważ Grecy nie wykształcili stanów rozróżnialnych przez prawo, a elity były towarzystwem, jednym z najbardziej pożądanych cech (poza dobrami materialnymi, które zbliżały do stylu życia elit) był dobytek kulturowy. Najcenniejszą umiejętnością/kapitałem napędzającym awans społeczny  (po awansie ekonomicznym) było obeznanie z kulturą. 
 
-
+*
+*
+*
 Inne spojrzenie na ten wykład:
 Może początek nie był najciekawszy, ale później przedstawiono dosyć interesujące aspekty z punktu widzenia historii, niekoniecznie matematyki:
 1. Grecy (chyba jako pierwsi) pogodzili religię z nauką: wierzymy, ale chcemy tę wiarę połączyć z nauką i chcemy wiedzieć jak najwięcej o świecie.
