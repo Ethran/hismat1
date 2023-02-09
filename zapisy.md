@@ -37,4 +37,4 @@
   - Imię Nazwisko
 
 - Wykład 15: 25-01-2023 - Matematyka losowości, II.
-  - Imię Nazwisko
+  - Cyprian Kalbarczyk @trig0n03
