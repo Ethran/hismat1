@@ -19,13 +19,13 @@
   - Karol Wąsowski @kwasow
 
 - Wykład 09: 30-11-2022 - Tło historyczne, II: XI-XII wiek, droga do Renesansu w.
-  - Imię Nazwisko
+  - Natalka :O @imolshi
 
 - Wykład 10: 7-12-2022 - Od Fibonacciego do Bombellego, z naciskiem na algebrę.
-  - Imię Nazwisko
+  - Natalka :O @imolshi
   
 - Wykład 11: 14-12-2022 - Tło historyczne, III: rewolucja kopernikańska
-  - Imię Nazwisko
+  - INatalka :O @imolshi
 
 - Wykład 12: 21-12-2022 - Rozwój analizy, I. Przygotowanie: Oresme, Galileusz, Kartezjusz, Kepler
   - Wiktor Wichrowski @Ethran 
