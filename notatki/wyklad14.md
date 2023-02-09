@@ -43,10 +43,15 @@ Tagi: Newton, wiek XVII, Leibniz, Principia, język uniwersalny
   - Synteza - konstrukcja równania, czyli geometryczna konstrukcja odcinka odpowiadającego rozwiązaniu równania algebraicznego.
 
 ## Nowa analiza - Newton, rozwinięcie potęg dwumianu
-$(a+b)^2 = a^2 + 2ab + b^2\newline$
-$(a+b)^3 = a^3 + 3a^2b + 3ab^2 + b^3\newline$
-$\cdots\newline$
-$(a+b)^{\frac{m}{n}}=a^{\frac{m}{n}}+\sum_{k=1}^{\infty}\frac1{k!}(\frac{m}{n})(\frac{m}{n}-1)\cdots(\frac{m}{n}-k+1)a^{\frac{m}{n}-k}b^k\newline\newline$
+$(a+b)^2 = a^2 + 2ab + b^2$
+
+$(a+b)^3 = a^3 + 3a^2b + 3ab^2 + b^3$
+
+$\cdots$
+
+$(a+b)^{\frac{m}{n}}=a^{\frac{m}{n}}+\sum_{k=1}^{\infty}\frac1{k!}(\frac{m}{n})(\frac{m}{n}-1)\cdots(\frac{m}{n}-k+1)a^{\frac{m}{n}-k}b^k$
+
+
 Newton wykorzystał silnię do obliczenie wielu całek dla całych klas krzywych, także niealgebraicznych (nazywane krzywymi mechanicznymi), stąd jego przewaga nad "Geometrią" Kartezjusza, który w ogóle nie zajmował się całkowaniem i badał tylko krzywe algebraiczne. Newton wykorzystywał również inne rozwinięcia funkcji w szeregi nieskończone dla konkretnych obliczeń numerycznych. Metody Newtona wykorzystywano np. w nawigacji. Newton lubił liczyć i podawał aproksymację logarytmu z dokładnością do nawet ponad 50 miejsc po przecinku.
 
 ## Wzór Newtona
@@ -73,11 +78,15 @@ $f(b) - f(a) = \int_a^b f'(x)dx$
 $F = \frac{Gm_1m_2}{r^2}$ -> wynika z praw Keplera
 
 ## Leibniz - rachunek różniczkowy i całkowy
-Wymyślił genialną symbolikę używaną współcześnie. $\newline$
-$z=z(y(x)), \frac{dz}{dx}=\frac{dz}{dy}\frac{dy}{dx}\newline$
-$\frac{dy}{dx}=f(x)\implies dy=f(x)dx\implies y = \int dy = \int f(x)dx\newline$
-Pracował nad uniwersalnym językiem formalnym "characteristica universalis" (bazowane jest na tym wiele języków programowania, np. Algol, Fortran czy Mathematica, a także język teorii mnogości i algebra uniwersalna). $\newline$
-Inne wzory wprowadzone przez Leibniza: $\newline$
+Wymyślił genialną symbolikę używaną współcześnie.
+
+$z=z(y(x)), \frac{dz}{dx}=\frac{dz}{dy}\frac{dy}{dx}$
+
+$\frac{dy}{dx}=f(x)\implies dy=f(x)dx\implies y = \int dy = \int f(x)dx$
+
+Pracował nad uniwersalnym językiem formalnym "characteristica universalis" (bazowane jest na tym wiele języków programowania, np. Algol, Fortran czy Mathematica, a także język teorii mnogości i algebra uniwersalna).
+
+Inne wzory wprowadzone przez Leibniza:
 - $\frac{d}{dx}(f(x)g(x))=\frac{df(x)}{dx}g(x)+f(x)\frac{dg(x)}{dx}$
 - $\int cf(x)dx=c\int f(x)dx$
 - $\int f(x)+g(x)dx = \int f(x)dx + \int g(x)dx$
