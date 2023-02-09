@@ -1,4 +1,4 @@
-# Wykład 06: 9-11-2022 - Matematyka starożytnej Grecji, III: od Archimedesa do późnych epigonów Pitagoras, Eratostenes
+# Wykład 06: 9-11-2022 - Poza Europą - Chiny, Indie, ...
 
 Tagi: Chiny, Indie, Majowie
 
