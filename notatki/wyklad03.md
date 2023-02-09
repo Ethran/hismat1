@@ -23,3 +23,12 @@ Mimo to wykształca się elita grecka (rozróżniana np. poprzed dary grobowe) �
 Grecy robili slamy poetyckie, slay. (sympozsion) 
 
 Ponieważ Grecy nie wykształcili stanów rozróżnialnych przez prawo, a elity były towarzystwem, jednym z najbardziej pożądanych cech (poza dobrami materialnymi, które zbliżały do stylu życia elit) był dobytek kulturowy. Najcenniejszą umiejętnością/kapitałem napędzającym awans społeczny  (po awansie ekonomicznym) było obeznanie z kulturą. 
+
+
+Inne spojrzenie na ten wykład:
+Może początek nie był najciekawszy, ale później przedstawiono dosyć interesujące aspekty z punktu widzenia historii, niekoniecznie matematyki:
+1. Grecy (chyba jako pierwsi) pogodzili religię z nauką: wierzymy, ale chcemy tę wiarę połączyć z nauką i chcemy wiedzieć jak najwięcej o świecie.
+2. Grecy bardzo cenili retorykę. Do tego stopnia, że dyskutowali z wyrokami bogów (!), co w innych kręgach kulturowych nie miałoby miejsca. Dokładniej: sprzeciwiali się "interpretacji wyroczni", sugerowali, że kapłani źle zrozumieli ich intencję, ponieważ w takim tłumaczeniu nie miałaby ona sensu.
+3. Grecy byli równi wobec prawa, ale ich majątki były różne. Arystokraci mieli wstęp na sympozsiony ("wspólne picie"), więc bogacący się Grecy nie inwestowali w złoto itp. jak w "normalnych" kulturach, tylko w ceramikę służącą do picia konkretnego typu wina. Na owych spotkaniach zajmowali się m.in. rozwiązywaniem zagadek, konkursami recytatorskimi i poetyckimi, dzięki czemu duża część społeczności chciała się kształcić (dzięki wygrywaniu w takich konkursach łatwiej było utrzymać swój status materialny). A stąd już blisko do szybkiego rozwoju nauki właśnie w Grecji, a nie gdzie indziej.
+4. Utwory tworzyli arystokraci, ale wszyscy obywatele byli nimi zainteresowani.
+5. Grecy rzadko odpowiadali na pytania (np. filozoficzne), raczej traktowali je jako problemy, do których można podchodzić z różnych stron.
