@@ -1,7 +1,8 @@
-Matematyka losowości
+# Matematyka losowości
 
 Przyjmuje się, że początek rachunku prawdopodbieństwa przypada na XVII wiek, ale wykład dotyczy w dużej części wcześniejszych czasów.
-Fazy rozwoju teorii prawdopodobieństwa:
+
+## Fazy rozwoju teorii prawdopodobieństwa:
 1. Faza prenatalna: od Arystotelesa (IV w. p.n.e.) do XVII w.).
 2. Faza wstępna: od korespondencji Pascala i Fermata do Jakuba Bernoulliego, XVIII w.
 3. Faza zastosowań: od połowy XVIII w. do połowy XIX w.; najważniejsze nazwiska: Bayes, Gauss, Laplace, de Moivre, Poisson.
@@ -15,7 +16,7 @@ Najwięcej czasu podczas wykładu poświęcono "Ars Conjectandi" Jakuba Bernoull
 
 ![obraz](https://user-images.githubusercontent.com/104526558/217850928-aa982570-c98e-46ee-8821-8f57b87b16c9.png)
 
-Motywacje:
+## Motywacje
 - gdy hazardowe;
 - wróżenie z kości, kart itd.;
 - statystyka, np. demografia;
