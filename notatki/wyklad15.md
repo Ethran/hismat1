@@ -10,7 +10,8 @@ Fazy rozwoju teorii prawdopodobieństwa:
 6. Faza nowoczesna: od 1933 r. Dopiero w tej fazie rachunek prawdopodobieństwa zaczął być traktowany jako osobna dziedzina (a nie np. część analizy, statystyki).
 
 ![obraz](https://user-images.githubusercontent.com/104526558/217849175-9ad57940-cabb-4792-8a86-48f9926f6e0e.png)
-Najwięcej czasu na wykładzie poświęcono "Ars Conjectandi" Jakuba Bernoulli'ego.
+
+Najwięcej czasu podczas wykładu poświęcono "Ars Conjectandi" Jakuba Bernoulli'ego.
 
 ![obraz](https://user-images.githubusercontent.com/104526558/217850928-aa982570-c98e-46ee-8821-8f57b87b16c9.png)
 
