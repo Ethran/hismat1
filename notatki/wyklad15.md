@@ -1,5 +1,7 @@
 # Matematyka losowości
 
+Tagi: rachunek prawdopodobieństwa, prawdopodobieństwo, losowość, probabiliści, hazard
+
 Przyjmuje się, że początek rachunku prawdopodbieństwa przypada na XVII wiek, ale wykład dotyczy w dużej części wcześniejszych czasów.
 
 ## Fazy rozwoju teorii prawdopodobieństwa:
