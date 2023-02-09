@@ -9,11 +9,9 @@ Fazy rozwoju teorii prawdopodobieństwa:
 5. Faza aksjomatyzacji: Prace Levy'ego (początek XX w.), aksjomaty Kołmogorowa (1933). Od tego momentu rachunek prawdopodobieństwa stał się precyzyjną dziedziną badań.
 6. Faza nowoczesna: od 1933 r. Dopiero w tej fazie rachunek prawdopodobieństwa zaczął być traktowany jako osobna dziedzina (a nie np. część analizy, statystyki).
 
-Najważniejsze dzieła:
 ![obraz](https://user-images.githubusercontent.com/104526558/217849175-9ad57940-cabb-4792-8a86-48f9926f6e0e.png)
 Najwięcej czasu na wykładzie poświęcono "Ars Conjectandi" Jakuba Bernoulli'ego.
 
-Dwa aspekty:
 ![obraz](https://user-images.githubusercontent.com/104526558/217850928-aa982570-c98e-46ee-8821-8f57b87b16c9.png)
 
 Motywacje:
