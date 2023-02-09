@@ -91,3 +91,16 @@ Czy jak będziemy dzielić odcinek to czy kiedyś dostniemy "atom"? czy można g
 - obserwacja marsa supernowej
 - tablice rudolfinskie
 ### galieusz
+#slajdy:
+![obraz](obrazki/wyklad12/slajd1.png)
+![obraz](obrazki/wyklad12/slajd2.png)
+![obraz](obrazki/wyklad12/slajd3.png)
+![obraz](obrazki/wyklad12/slajd4.png)
+![obraz](obrazki/wyklad12/slajd5.png)
+![obraz](obrazki/wyklad12/slajd6.png)
+![obraz](obrazki/wyklad12/slajd7.png)
+![obraz](obrazki/wyklad12/slajd8.png)
+![obraz](obrazki/wyklad12/slajd9.png)
+![obraz](obrazki/wyklad12/slajd13.png)
+![obraz](obrazki/wyklad12/slajd14.png)
+![obraz](obrazki/wyklad12/slajd15.png)
