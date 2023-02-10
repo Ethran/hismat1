@@ -33,7 +33,7 @@ Księga I: pojawia się w niej dużo definicji geometrycznych – punktu, proste
     IV. Wszystkie kąty proste są sobie równe.
     V. Jeśli prosta opadająca na dwie proste na dwie proste tworzy kąty wewnętrzne po jednej stronie mniejsze od dwu kątów prostych, te dwie proste przedłużone nieskończenie zbiegały się po tej stronie, po której są te kąty mniejsze od dwu kątów prostych.
 Ostatni mógł zostać dodany przez Euklidesa w odpowiedzi na zarzuty wobec ścisłości niektórych rozumowań; użyty jest tak późno jak to możliwe.
-Wielu matematyków próbowało udowodnić aksjomat piąty – było to jednak chodzenie w kółko (w XIX w. odkryto, że nie dało się go udowodnić).
+Wielu matematyków próbowało udowodnić aksjomat piąty – było to jednak chodzenie w kółko (w XIX w. odkryto, że nie dało się go udowodnić - istnieją struktury, w których mimo zachodzenia pierwszych czterech aksjomatów piąty nie zachodzi. Tak zrodziła się geometria nieeuklidesowa).
 
 Grecy mieli troche bardziej sceptyczne podejście do nieskończoności aktualnej (lubili nieskończoność potencjalną, tzn. że coś można zwiększyć, pomnożyć, dodać).
 
