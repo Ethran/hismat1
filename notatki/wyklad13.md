@@ -54,7 +54,7 @@ Narodziny geometrii analitycznej.
   - Przyrównać wynik do $0$ i rozwiązać równanie z niewiadomą $a$.
 
 ## Inni matematycy z pokolenia 'dorosłych 1635'
-- Desargues - architekt, matematyk i twórca geometrii rzutowej, Twierdzenie Desargues'a (1648)
+- Desargues - architekt, matematyk i twórca geometrii rzutowej, Twierdzenie Desargues'a - współpękowość prostych do współliniowości punktów (1648)
 - Guldin - jezuita i matematyk, "Centrobaryca" (1635-1641), rysował torusy (podobne do rysunków Keplera z 1615)
 
 ## John Wallis
