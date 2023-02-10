@@ -32,6 +32,6 @@ Liczby wymierne – zapisywanie za pomocą ułamka łańcuchowego. Miał to byś
 Pierwszy i najbatdziej znany dowód niewspółmierności boku i przekątnej kwadratu znajduje się w Analitykach pierwszych Arystotelesa.
 
 #### **Trzy problemy konstrukcyjne starożytych:**
-- podwojenie sześcianu, trydekcja kąta, kwadratura koła. 
+- podwojenie sześcianu, trysekcja kąta, kwadratura koła. 
 - Próby rozwiązania tych problemów doprowadziły do wielu osiągnieć.
 (Dokładniej została pokazana podwójna proporcja; krzywa Archytasa (oraz jej rekonstrukcje, w tym jedna z 2022 (mechaniczna);).
